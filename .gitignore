@@ -12,12 +12,11 @@
 *.depend
 *.layout
 
-# ❌ Code::Blocks project files (optional — keep if you want to version them)
-# Uncomment below if you DO NOT want to track project/target config files
+# ❌ Code::Blocks project files
 # *.cbp
 # *.workspace
 
-# ❌ Saved data files (your project-specific)
+# ❌ Saved data files
 this_year.txt
 last_year.txt
 
