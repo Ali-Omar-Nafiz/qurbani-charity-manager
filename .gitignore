@@ -1,0 +1,28 @@
+# ❌ Compiled binary and object files
+*.exe
+*.o
+*.obj
+
+# ❌ Build logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# ❌ Code::Blocks project metadata
+*.depend
+*.layout
+
+# ❌ Code::Blocks project files (optional — keep if you want to version them)
+# Uncomment below if you DO NOT want to track project/target config files
+# *.cbp
+# *.workspace
+
+# ❌ Saved data files (your project-specific)
+this_year.txt
+last_year.txt
+
+# ❌ OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
